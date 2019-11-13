@@ -1,0 +1,27 @@
+{
+  "name": "sould-boilerplate_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souldrb/sould-boilerplate_testing_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souldrb/sould-boilerplate_testing_react/issues"
+  },
+  "homepage": "https://github.com/souldrb/sould-boilerplate_testing_react#readme"
+}
