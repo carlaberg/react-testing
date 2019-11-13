@@ -8,10 +8,12 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel index.html"
+    "test": "jest --watch",
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
