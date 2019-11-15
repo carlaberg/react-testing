@@ -1,6 +1,6 @@
 # Setup for testing react components
 
-The purpose of this repo is to explore how to test React components with Jest, Enzyme and Cypress.
+The purpose of this repo is to explore how to test React components with Jest, Enzyme and Cypress. It contains practical examples of how implement testing for different types of React components. For a theoretical review of the concepts implemented in this repo see the [Sould testing paper](https://paper.dropbox.com/doc/Sould-testing--AopENdEfoms2dKe4r3ZGiWvzAg-C4KhQCCvwV0Yi8yff5yKX)
 
 ## Installation
 Run `npm install` in the root directory.
