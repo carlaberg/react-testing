@@ -31,7 +31,7 @@ npm run start
 This prjoect is using parcel to bundle javascript. The start command will spin upp a development server at localhost:1234. Parcel will listen to changes and update the effected components.
 
 ## Examples
-The src/__tests__ folder contains examples of how to implement testing for different types of React components. The examples are exlained in detail below.
+The src/\__tests__ folder contains examples of how to implement testing for different types of React components. The examples are exlained in detail below.
 
 ### example.test.js
 ...
