@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button React component matches snapshot 1`] = `
+.c0 {
+  background: deeppink;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+<Button
+  text="I am a button"
+>
+  <styles__StyledButton
+    type="button"
+  >
+    <StyledComponent
+      forwardedComponent={
+        Object {
+          "$$typeof": Symbol(react.forward_ref),
+          "attrs": Array [],
+          "componentStyle": ComponentStyle {
+            "componentId": "styles__StyledButton-qg1tyq-0",
+            "isStatic": false,
+            "lastClassName": "c0",
+            "rules": Array [
+              "background:deeppink;color:white;border:none;padding:10px 20px;border-radius:8px;",
+            ],
+          },
+          "displayName": "styles__StyledButton",
+          "foldedComponentIds": Array [],
+          "render": [Function],
+          "styledComponentId": "styles__StyledButton-qg1tyq-0",
+          "target": "button",
+          "toString": [Function],
+          "warnTooManyClasses": [Function],
+          "withComponent": [Function],
+        }
+      }
+      forwardedRef={null}
+      type="button"
+    >
+      <button
+        className="c0"
+        type="button"
+      >
+        I am a button
+      </button>
+    </StyledComponent>
+  </styles__StyledButton>
+</Button>
+`;
+
+exports[`Button Styled component matches snapshot 1`] = `
+<StyledComponent
+  forwardedComponent={
+    Object {
+      "$$typeof": Symbol(react.forward_ref),
+      "attrs": Array [],
+      "componentStyle": ComponentStyle {
+        "componentId": "styles__StyledButton-qg1tyq-0",
+        "isStatic": false,
+        "lastClassName": "jqvfhR",
+        "rules": Array [
+          "background:deeppink;color:white;border:none;padding:10px 20px;border-radius:8px;",
+        ],
+      },
+      "displayName": "styles__StyledButton",
+      "foldedComponentIds": Array [],
+      "render": [Function],
+      "styledComponentId": "styles__StyledButton-qg1tyq-0",
+      "target": "button",
+      "toString": [Function],
+      "warnTooManyClasses": [Function],
+      "withComponent": [Function],
+    }
+  }
+  forwardedRef={null}
+/>
+`;

@@ -12,7 +12,7 @@ npm run test
 ```
 This command will start the Jest test runner in watch mode. When you make change in a file the tests related to that file will rerun.
 
-
+  
 ```bash
 npm run coverage
 ```
