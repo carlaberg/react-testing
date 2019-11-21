@@ -16,7 +16,7 @@ describe('Button', () => {
     const reactComponent = mount(<Button />)
     expect(toJson(reactComponent)).toMatchSnapshot()
   })
-  
+
   // Import styled component to test features that is related to styling
   it('Styled component matches snapshot', () => {
     const styles = shallow(<StyledButton />)
