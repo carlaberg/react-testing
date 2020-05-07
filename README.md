@@ -14,7 +14,12 @@ Run `npm install` in the root directory.
 ## Scripts
 
 ```bash
-npm run test
+npm test
+```
+This command will run all tests. This command should be run in the CI pipeline
+
+```bash
+npm run test:watch
 ```
 This command will start the Jest test runner in watch mode. When you make change in a file the tests related to that file will rerun.
 

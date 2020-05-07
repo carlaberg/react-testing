@@ -28,7 +28,8 @@
     "jest-styled-components": "^6.3.4"
   },
   "scripts": {
-    "test": "jest --watch",
+    "test": "jest",
+    "test:watch": "jest --watch",
     "coverage": "jest --coverage",
     "start": "parcel src/index.html"
   },
