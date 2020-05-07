@@ -40,6 +40,8 @@ The src/\_\_tests\_\_ folder contains examples of how to implement testing for d
 ### snapshot.test.js
 ...
 
+## CI/CD
+
 ## Todo
 * Find out which jest related files and folders shold be added to the .gitignore
 * Remove react linting rules from none react js files
