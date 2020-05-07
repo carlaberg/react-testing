@@ -1,5 +1,5 @@
 const sayHello = () => {
-  return 'Hellosan';
+  return 'Hello';
 };
 
 export default sayHello;
