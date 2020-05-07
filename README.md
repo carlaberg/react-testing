@@ -16,7 +16,7 @@ Run `npm install` in the root directory.
 ```bash
 npm test
 ```
-This command will run all tests. This command should be run in the CI pipeline
+This command will run all tests. This command should be run in the CI pipeline.
 
 ```bash
 npm run test:watch
